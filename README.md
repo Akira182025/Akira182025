@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência de Dados e IA | Analista de Dados`**
 
-Estudante do **4º semestre de Ciência de Dados e Inteligência Artificial**, com formação técnica em **Desenvolvimento de Sistemas**, atuando com análise e interpretação de dados.
+Estudante do **6º semestre de Ciência de Dados e Inteligência Artificial**, com formação técnica em **Desenvolvimento de Sistemas**, atuando com análise e interpretação de dados.
 
 ---
 
